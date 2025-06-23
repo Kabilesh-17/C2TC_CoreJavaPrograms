@@ -15,5 +15,4 @@ public class FinalClassDemo {
 		// Create the object of final class
 		FinalClass f1 = new FinalClass(); // Call show() method using object reference variable ab.
 		f1.show();
-	}
-}
+    }
