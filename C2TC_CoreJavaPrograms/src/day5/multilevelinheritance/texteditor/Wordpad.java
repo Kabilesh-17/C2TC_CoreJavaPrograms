@@ -1,6 +1,6 @@
 package day5.multilevelinheritance.texteditor;
 
-public class WordPad extends Notepad {
+public class Wordpad extends Notepad {
     private boolean isBold;
 
     public Wordpad() {
